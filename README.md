@@ -7,3 +7,4 @@ In it I used the following technologies:
   4. Upgrade your character stats, damage, shields for skillpoints that you get during the level.
   5. Intra-level store where you can buy armor, rounds, shields.
   6. Moving platforms.
+  7. Control character by mouse and keyboard.
