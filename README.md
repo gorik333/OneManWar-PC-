@@ -9,3 +9,6 @@ In it I used the following technologies:
   6. Moving platforms.
   7. Control character by mouse and keyboard.
   8. Switch type of ammo during the game, they are have different penetration
+
+Gameplay video:
+https://www.youtube.com/watch?v=Ymc7K0e4Ycc
